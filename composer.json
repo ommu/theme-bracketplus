@@ -1,0 +1,41 @@
+{
+	"name": "ommu/bracketplus",
+	"description": "Bracket Plus Responsive Bootstrap 4 Admin Dashboard for Ommu Platform",
+	"keywords": [
+		"theme",
+		"backend",
+		"ommu",
+		"platform",
+		"ommu platform"
+	],
+	"homepage": "https://github.com/OmmuThemes/bracketplus",
+	"type": "ommu-theme",
+	"license": "Apache-2.0",
+	"support": {
+		"issues": "https://github.com/OmmuThemes/bracketplus/issues",
+		"wiki": "https://github.com/OmmuThemes/bracketplus/wiki",
+		"source": "https://github.com/OmmuThemes/bracketplus"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/OmmuThemes/bracketplus.git"
+	},
+	"authors": [
+		{
+			"name": "Putra Sudaryanto",
+			"email": "putra@sudaryanto.id",
+			"homepage": "https://putra.sudaryanto.id",
+			"role": "Developer"
+		},
+		{
+			"name": "themepixels",
+			"homepage": "https://themeforest.net/user/themepixels",
+			"role": "Creator"
+		}
+	],
+	"require": {
+		"php": ">=5.3.2",
+		"oomphinc/composer-installers-extender": "^1.0",
+		"yiisoft/yii": "1.1.*"
+	}
+}
