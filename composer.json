@@ -4,21 +4,21 @@
 	"keywords": [
 		"theme",
 		"backend",
+		"backoffice",
 		"ommu",
-		"platform",
 		"ommu platform"
 	],
-	"homepage": "https://github.com/OmmuThemes/bracketplus",
+	"homepage": "https://github.com/ommu/theme-bracketplus",
 	"type": "ommu-theme",
 	"license": "Apache-2.0",
 	"support": {
-		"issues": "https://github.com/OmmuThemes/bracketplus/issues",
-		"wiki": "https://github.com/OmmuThemes/bracketplus/wiki",
-		"source": "https://github.com/OmmuThemes/bracketplus"
+		"issues": "https://github.com/ommu/theme-bracketplus/issues",
+		"wiki": "https://github.com/ommu/theme-bracketplus/wiki",
+		"source": "https://github.com/ommu/theme-bracketplus"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/OmmuThemes/bracketplus.git"
+		"url": "https://github.com/ommu/theme-bracketplus.git"
 	},
 	"authors": [
 		{
